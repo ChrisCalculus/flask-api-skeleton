@@ -1,0 +1,28 @@
+# Server
+Flask-Classful==0.14.2
+Flask==1.1.2
+Flask-Env==2.0.0
+Flask-Script==2.0.6
+
+# Localization
+Flask-Babel==1.0.0
+
+# Documentation
+apispec==3.3.1
+
+# Request & response parsing
+webargs==6.1.0
+marshmallow==3.7.1
+
+# Database
+psycopg2==2.8.5
+faker==4.1.1
+
+# ORM
+Flask-SQLAlchemy==2.4.4
+SQLAlchemy==1.3.18
+SQLAlchemy-Utils==0.36.8
+Flask-Migrate==2.5.3
+
+# Profiling
+ansicolors==1.1.8

@@ -1,0 +1,28 @@
+# Editors
+.vscode/
+.idea/
+
+# Mac/OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Pip folders
+src/
+
+# Python
+__pycache__/
+
+# Unit test / coverage reports
+.coverage
+.mypy_cache/
+.pytest_cache/
+
+# virtualenv
+.venv
+venv/
+
+# Translations
+*.mo
+*.pot
